@@ -4,11 +4,8 @@
 ### Project Name
 Solana Batch Executor - Powered by Sanctum Gateway
 
-### GitHub Repository
-[Your GitHub link here - we'll create this next]
-
 ### Live Demo
-http://localhost:3001 (or deployed URL if you deploy it)
+http://localhost:3001 
 
 ### Problem Statement
 Companies and projects using Solana need to send batch transactions (payroll, airdrops, treasury distributions) reliably and cost-effectively. Currently, transactions fail 5-10% of the time due to network congestion or MEV, requiring manual retries and consuming developer time.
@@ -62,10 +59,6 @@ A company paying 100 employees monthly:
 - Backend: Express.js + Node.js
 - Blockchain: Solana Web3.js
 - Gateway: Sanctum Gateway API
-
-### Code Highlights
-[Link to GitHub batch-executor.js]
-[Link to GitHub server.js]
 
 ### Innovation & Impact
 ✅ First open-source batch executor using Gateway's dual-routing strategy
