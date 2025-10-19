@@ -1,0 +1,10 @@
+```
+.env
+node_modules/
+.DS_Store
+npm-debug.log
+build/
+dist/
+.idea/
+.vscode/
+*.log
