@@ -1,8 +1,0 @@
-Just shipped Solana Batch Executor for the Sanctum Gateway hackathon 🚀
-
-Without Gateway: batch transactions fail 5-10% of the time, costing hours debugging
-With Gateway: 99%+ success rate via dual RPC + Jito routing, 40-50% cost savings
-
-Gateway's simultaneous routing is a game-changer for reliable batch operations on Solana. See it in action: [your-github-link]
-
-#Solana #SanctumGateway #Web3 #Hackathon
